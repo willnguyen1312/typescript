@@ -1,22 +1,10 @@
 {
-  "authors": [
-    "masters3d"
-  ],
-  "contributors": [
-    "DFXLuna",
-    "lukaszklis",
-    "SleeplessByte"
-  ],
+  "authors": ["masters3d"],
+  "contributors": ["DFXLuna", "lukaszklis", "SleeplessByte"],
   "files": {
-    "solution": [
-      "leap.ts"
-    ],
-    "test": [
-      "leap.test.ts"
-    ],
-    "example": [
-      ".meta/proof.ci.ts"
-    ]
+    "solution": ["leap.ts"],
+    "test": ["leap.test.ts"],
+    "example": [".meta/proof.ci.ts"]
   },
   "blurb": "Given a year, report if it is a leap year.",
   "source": "CodeRanch Cattle Drive, Assignment 3",
