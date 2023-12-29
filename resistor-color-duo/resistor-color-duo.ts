@@ -4,7 +4,7 @@ export function decodedValue(colors: string[]): number {
       .slice(0, 2)
       .map((color) => COLORS.indexOf(color))
       .join(""),
-    10
+    10,
   );
 }
 
